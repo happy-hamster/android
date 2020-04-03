@@ -1,2 +1,2 @@
 # HappyHamster2Android
-Android Port of happyhamster.org
+Android Port of [HappyHamster](happyhamster.org)
